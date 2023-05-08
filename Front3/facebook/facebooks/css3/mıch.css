@@ -29,12 +29,12 @@ p{
 }
 .qq{
     width: 40%;
-    margin: 5px 6px 0px 5px;
+    margin: 20px 6px 5px 5px;
     padding: 10px 9px;
     border-radius: 5px;
     border: 1px solid #606670 ;
-    border-color:  #ccd0d5;
-    background-color: #ccd0d5;
+    border-color: #ccd0d5;
+    background-color: #ccd0d548;
 }
 h6{
     font-size: medium;
@@ -43,11 +43,11 @@ h6{
 }
 .ww{
     width: 92%;
-    background-color: #ccd0d5;
+    background-color: #ccd0d546;
     margin: 5px 4px;
     padding: 10px 2px;
     border-radius: 5px;
-    border: 1px solid #606670 ;
+    border: 1px solid #606670  ;
     border-color: #ccd0d5;
 }
 .ee{
