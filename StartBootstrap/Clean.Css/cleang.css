@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    background-image:  url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  height: 60vh;
+}
+.a1{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    float: left;
+    font-size: 2rem;
+    margin: 30px 0px 0px 338px;
+}
+.a2{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    float: right;
+    font-size: 1rem;
+    margin: 30px 0px 0px -335px;
+    padding: 0px 368px 0px 9px;
+}
+.a3{
+    color: #fff;
+    font-size: 5rem;
+     margin: 0% 0% 0% 0%;
+     padding: 14% 0% 0% 0%;
+}
+.a4{
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: 0.6%;
+}
+.second{
+    background-position: center;
+    width: 30%;
+    text-align: justify;
+    height: 70vh;
+    margin: auto;
+    margin-top: 5%;
+}
+h2{
+    font-size: 2.25rem;
+    margin: 4% 0%;
+}
+h3{
+    font-size: 1.75rem;
+    font-weight: 100;
+    margin: 2% 0%;
+}
+p{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 1rem 0rem;
+}
+.a5{
+    color: #fff;
+}
+.a6{
+    color: #fff;
+    background-color: #0085a1;
+    text-decoration: none;
+    padding: 22px 36px 22px 36px;
+    margin: 30px 0px 0px 0px;
+    float: right;
+}
