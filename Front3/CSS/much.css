@@ -43,6 +43,7 @@
 }
 .az{
     color: #1877f2;
+    text-decoration: none;
     
 }
 
@@ -51,10 +52,11 @@
     text-decoration: none;
     color: #fff;
     background-color: #42b72a;
-    border-radius: 6px;;
+    border-radius: 6px;
+    font-size: 17px;
     line-height: 48px;
     padding: 15px 40px;
-    margin: 0px 0px 40px;
+    
 }
 img{
     width: 40%;
@@ -67,4 +69,10 @@ p{
     margin: -19% 0% 0% 4%;
     font-size: 174%;
     font-weight: 500;
+}
+.av:hover{
+    background-color: #3d832f;
+}
+.az:hover{
+    text-decoration: underline;
 }
